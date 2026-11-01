@@ -1,0 +1,1 @@
+Aggiunte sei immagini illustrative per Maltese e Shih Tzu: corto, medio, lungo. I cani sono interi e visibili nel riquadro. Le immagini derivano da una tavola generata con AI, non da sei scatti fotografici indipendenti; non rappresentano risultati garantiti di toelettatura. Il resto del progetto resta invariato. Aprire index.html con Edge.

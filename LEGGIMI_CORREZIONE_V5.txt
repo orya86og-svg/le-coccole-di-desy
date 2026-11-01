@@ -1,0 +1,1 @@
+V5: correzione esportazione confronto fotografico quando index.html è aperto come file locale (file://). Le immagini del catalogo usate per il salvataggio vengono incorporate in images_for_export.js per evitare il blocco di sicurezza del canvas. Nessuna fotografia del cliente viene inviata online. Aprire index.html, caricare la foto, scegliere taglio, salvare confronto.

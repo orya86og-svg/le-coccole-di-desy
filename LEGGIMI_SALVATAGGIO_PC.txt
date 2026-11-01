@@ -1,0 +1,7 @@
+V6 - Salvataggio confronto sul PC
+
+In Edge o Chrome, clicca Salva confronto fotografico: quando disponibile, si apre Salva con nome per scegliere la cartella. Se il browser non supporta la finestra di salvataggio, viene scaricato un PNG nella cartella Download impostata nel browser.
+
+Per scegliere sempre la cartella in Edge: Impostazioni > Download > attiva Chiedi dove salvare ogni file prima di scaricarlo.
+
+La funzione di condivisione automatica e stata rimossa dal salvataggio del confronto.

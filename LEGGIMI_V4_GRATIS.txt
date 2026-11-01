@@ -1,0 +1,7 @@
+Le Coccole di Desy — V4 gratuita per iPad mini 6
+
+NOVITÀ: pulsante Salva confronto fotografico nella scheda cliente.
+Genera localmente un PNG con la foto originale e il taglio di riferimento.
+Su iPad Safari prova ad aprire il menu Condividi; su computer scarica il PNG.
+Nessuna fotografia viene inviata a servizi esterni. Non è una simulazione AI.
+Per installare come PWA è necessario pubblicare i file su HTTPS; aprire index.html sul computer serve solo per provarla.

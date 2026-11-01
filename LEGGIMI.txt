@@ -1,0 +1,1 @@
+Corrette solo le fotografie di Lhasa Apso (Standard) e Lagotto Romagnolo (Corto, Medio, Lungo). Schnauzer e altre razze invariati. Estrai tutto in una cartella nuova e apri index.html. Immagini illustrative AI da verificare.

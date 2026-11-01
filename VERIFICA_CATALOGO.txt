@@ -1,0 +1,60 @@
+LE COCCOLE DI DESY — VERIFICA TECNICA DEL CATALOGO
+
+Razze: 19
+Schede taglio: 46
+Immagini dei tagli mancanti: 0
+Immagini illeggibili: 0
+Duplicati identici tra i file taglio: 0
+
+VERIFICATO: presenza e leggibilità dei file immagine; corrispondenza dei riferimenti alle schede; sintassi JavaScript.
+CORRETTO: proporzione panoramica delle tre fotografie dello Spitz/Pomerania per evitare una striscia piccola in un riquadro verticale.
+NON ANCORA VERIFICATO: fedeltà tecnica di ciascun taglio, correttezza anatomica e visiva di ogni immagine AI, funzionamento completo in ogni browser.
+SIMULATORE AI: non ancora collegato; lo Studio Fotografico mostra un confronto, non una trasformazione reale.
+
+SCHEDE CONTROLLATE
+barboncino | Terrier Clip | barboncino-terrier-anteprima.jpg | 720x900
+barboncino | Moderna Clip | barboncino-moderna-anteprima.jpg | 720x900
+barboncino | Continental Clip | barboncino-continental-anteprima.jpg | 720x900
+barboncino | Full Puppy Clip | barboncino-full-puppy-anteprima.jpg | 720x900
+barboncino | English Saddle Clip | barboncino-english-saddle-anteprima.jpg | 720x900
+barboncino | Scandinava Clip | barboncino-scandinava-anteprima.jpg | 720x900
+spitz | Rifinitura naturale | spitz-naturale-stile.jpg | 723x306
+spitz | Rifinitura arrotondata | spitz-arrotondata-stile.jpg | 722x306
+spitz | Taglio a forbice | spitz-forbice-stile.jpg | 722x311
+maltese | Taglio corto | maltese-corto-stile.jpg | 453x260
+maltese | Taglio medio | maltese-medio-stile.jpg | 452x260
+maltese | Taglio lungo | maltese-lungo-stile.jpg | 453x260
+shih-tzu | Taglio corto | shih-tzu-corto-stile.jpg | 453x260
+shih-tzu | Taglio medio | shih-tzu-medio-stile.jpg | 452x260
+shih-tzu | Taglio lungo | shih-tzu-lungo-stile.jpg | 453x260
+bichon | Taglio Standard | bichon-standard-stile.jpg | 960x720
+yorkshire | Taglio medio | yorkshire-medio-stile.jpg | 960x720
+yorkshire | Taglio lungo | yorkshire-lungo-stile.jpg | 960x720
+cavalier | Taglio Standard | cavalier-standard-stile.jpg | 472x532
+setter | Taglio Standard | setter-standard-stile.jpg | 468x532
+westie | Taglio Standard | westie-standard-stile.jpg | 473x532
+meticcio | Taglio corto | meticcio-corto-stile.jpg | 473x314
+meticcio | Taglio medio | meticcio-medio-stile.jpg | 470x314
+meticcio | Taglio lungo | meticcio-lungo-stile.jpg | 472x314
+barbone-grande | Terrier Clip | barbone-grande-terrier-anteprima.jpg | 720x900
+barbone-grande | Moderna Clip | barbone-grande-moderna-anteprima.jpg | 720x900
+barbone-grande | Continental Clip | barbone-grande-continental-anteprima.jpg | 720x900
+barbone-grande | Full Puppy Clip | barbone-grande-full-puppy-anteprima.jpg | 720x900
+barbone-grande | English Saddle Clip | barbone-grande-english-saddle-anteprima.jpg | 720x900
+barbone-grande | Scandinava Clip | barbone-grande-scandinava-anteprima.jpg | 720x900
+coton | Taglio corto | coton-corto-stile.jpg | 473x266
+coton | Taglio medio | coton-medio-stile.jpg | 470x266
+coton | Taglio lungo | coton-lungo-stile.jpg | 472x266
+lhasa | Taglio Standard | lhasa-standard-stile.jpg | 960x640
+lagotto | Taglio corto | lagotto-corto-stile.jpg | 960x640
+lagotto | Taglio medio | lagotto-medio-stile.jpg | 960x640
+lagotto | Taglio lungo | lagotto-lungo-stile.jpg | 960x640
+schnauzer | Taglio Standard | schnauzer-standard-stile.jpg | 800x529
+cocker-inglese | Stripping | cocker-inglese-stripping-stile.jpg | 1080x440
+cocker-inglese | Taglio a forbice | cocker-inglese-forbice-stile.jpg | 1080x440
+cocker-americano | Stripping | cocker-americano-stripping-stile.jpg | 1080x440
+cocker-americano | Taglio a forbice | cocker-americano-forbice-stile.jpg | 1080x440
+golden-europeo | Slanatura | golden-europeo-slanatura-stile.jpg | 723x303
+golden-europeo | Taglio a forbice | golden-europeo-forbice-stile.jpg | 723x303
+golden-americano | Slanatura | golden-americano-slanatura-stile.jpg | 723x290
+golden-americano | Taglio a forbice | golden-americano-forbice-stile.jpg | 723x290

@@ -1,0 +1,12 @@
+LE COCCOLE DI DESY — STUDIO FOTOGRAFICO V3 (GRATUITO)
+
+Aggiornamenti:
+- Caricamento foto da fotocamera e libreria senza dipendere da DataTransfer (compatibilita Safari iPad).
+- Pulsante Rimuovi foto: elimina l’anteprima dalla sessione e libera il relativo URL temporaneo.
+- Pulsante Condividi scheda: usa il pannello Condividi di iPadOS, quando disponibile, oppure salva un file TXT.
+- Pulsanti touch piu comodi e stampa leggermente ottimizzata.
+- Nessun collegamento a servizi AI a pagamento.
+
+Le foto scelte restano nella memoria temporanea della pagina; non vengono inviate a server da questo codice. La scheda condivisa contiene testo, non la foto. La scheda non viene salvata automaticamente: usare Salva o Condividi.
+
+Per installare la PWA su iPad occorre ospitarla via HTTPS. Aprire index.html localmente non equivale a installarla.

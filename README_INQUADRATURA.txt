@@ -1,0 +1,1 @@
+Correzione delle sei fotografie del Barbone grande mole: nuove inquadrature estratte dalla tavola originale, senza zoom che tagli testa o zampe. Immagini illustrative provvisorie, non fotografie indipendenti e non tagli tecnici verificati. Le immagini del Barboncino e il resto dell’app non sono stati modificati.

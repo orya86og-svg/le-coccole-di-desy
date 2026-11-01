@@ -1,0 +1,9 @@
+LE COCCOLE DI DESY – STUDIO FOTOGRAFICO iPAD
+
+Novita: pulsante Scatta una foto (fotocamera posteriore iPad), pulsante Scegli dalla libreria, anteprima della foto originale e confronto con lo stile selezionato.
+
+Il confronto NON e ancora una simulazione AI. Nessuna fotografia viene inviata a server da questa versione.
+
+Per installare come web app: pubblicare la cartella su un sito HTTPS, aprire in Safari su iPad, usare Condividi > Aggiungi alla schermata Home. Aprire index.html direttamente come file non attiva il funzionamento offline PWA.
+
+La generazione AI richiedera in seguito un backend protetto e una chiave API conservata sul server.

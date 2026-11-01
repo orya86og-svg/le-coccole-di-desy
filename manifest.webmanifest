@@ -1,0 +1,24 @@
+{
+  "name": "Le Coccole di Desy – Grooming Style",
+  "short_name": "Le Coccole di Desy",
+  "description": "Catalogo toelettatura riservato al salone",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e7",
+  "theme_color": "#f5f0e7",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

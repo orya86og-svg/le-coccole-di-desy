@@ -1,0 +1,8 @@
+LE COCCOLE DI DESY – VERSIONE IPAD MINI 6
+
+Questa versione include layout touch, manifest e cache offline della galleria.
+Per installarla: pubblicare la cartella su un sito HTTPS, aprire URL in Safari su iPad, Condividi > Aggiungi alla schermata Home.
+IMPORTANTE: aprire index.html come file locale NON installa una PWA; serve HTTPS.
+La simulazione AI non è ancora collegata: la sezione Studio confronta solo foto originale e riferimento.
+La foto del cane non viene inviata a un servizio remoto da questa versione.
+Per l'AI serviranno backend protetto, autenticazione e informativa/consenso per le foto dei clienti.
